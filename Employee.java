@@ -34,6 +34,7 @@ class Employee{
 		String dn = sc.nextLine();
 		System.out.println("Enter the Department Code : ");
 		int dc = sc.nextInt();
+		System.out.println("sagnik owns");
 		System.out.println("Enter the Basic Pay : ");
 		double b = sc.nextDouble();
 		System.out.println("Enter the D A : ");
