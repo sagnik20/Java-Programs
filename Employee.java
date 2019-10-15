@@ -1,5 +1,17 @@
 // Sagnik Chattopadhyaya --- 16500117034
 
+/*
+Create class Employee with name, Id, cellNum, designation, department, salary permanent (Boolean) as members. 
+Also create separate class for member name as EmpName, department as Department and salary as Salary. 
+Members of EmpName are firstName, midName, lastName . 
+Members of Salary are basic, daPercent, hra, pf, insurance. 
+Members of Department are deptName, deptCode. 
+//This belongs to Sagnik of CIEM college.
+Create an instance of Employee and initialize all its members from user input console. 
+Access the same instance by more than one reference of Employee. 
+Count the number of references and objects being created. [class, references, objects].
+*/
+
 import java.util.*;
 class Employee{
 	EmpName name;
