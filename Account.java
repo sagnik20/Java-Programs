@@ -1,5 +1,19 @@
 // Sagnik Chattopadhyaya --- 16500117034
 
+/*
+3.Declare a class “BankAccount” with the following:
+	i. Account Holder’s Name
+	ii. Account Number
+	iii. Account Type (S for savings and C for Current)
+	iv. Balance amount
+Methods:
+	i. Initialize data
+	ii. Deposit money
+	iii. Withdrawal of money –minimum balance should beRs. 1,000/-after withdrawl.
+	iv. To display all items
+Write an appropriate main() to run it.
+
+*/
 
 import java.util.*;
 class BankAccount{
@@ -28,7 +42,7 @@ class BankAccount{
 		System.out.println("Account Type  :  "+ Type);
 		System.out.println("Remaining Balance  :  " + Amount);
 	}
-	public static void main(String args[]){
+	public static void main(String sagnik[]){
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter the Account Holder's Name  : ");
 		String name = sc.nextLine();
