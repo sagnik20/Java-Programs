@@ -1,5 +1,15 @@
 // Sagnik Chattopadhyaya --- 16500117034
 
+/*
+1. Write a program to implement a class “Student” with the following members.
+	i. Name of the student
+	ii. Marks of the student
+	iii. Method to assign initial values
+	iv. Method to compute total and average
+	v. Method to display the data
+Write an appropriate main() to demonstrate the functioning of the above.
+*/
+
 import java.util.*;
 class Student{
 	String Name;
