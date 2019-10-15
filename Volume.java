@@ -1,5 +1,9 @@
 // Sagnik Chattopadhyaya --- 16500117034
 
+/*
+Write a program in java to find the volume of the sphere, cuboidand cone using overloading method calvol() using command line.
+*/
+
 
 import java.util.*;
 class Volume{
@@ -33,6 +37,6 @@ class Volume{
 			ob.calVol(Integer.parseInt(args[0]),Integer.parseInt(args[1]),Integer.parseInt(args[2]));
 		}
 
-		// int a = Integer.parseInt(args[0]);
+		// int a = Integer.parseInt(sagnik[0]);
 	}
 }
