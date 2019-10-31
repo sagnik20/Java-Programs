@@ -1,5 +1,11 @@
 // Sagnik Chattopadhyaya --- 16500117034
+/*
+Create a base class called “Vehicle” that stores number of wheels and speed. Create the following derived classes:
+-->  “Car” that inherits “Vehicle” and also stores number of passengers.
+-->  “Truck” that inherits “Vehicle” and also stores the load limit.
+Write a main() function to create objects of these classes and display all the information about Car and Truck. Also, compare the speed of the two vehicles, Car and Truck and display “faster” or “slower” if Car is faster or slower than Truck.
 
+*/
 
 import java.util.*;
 class Vehicle{

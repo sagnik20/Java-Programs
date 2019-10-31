@@ -1,5 +1,7 @@
  // Sagnik Chattopadhyaya --- 16500117034
-
+/*
+Write a program to count the no. of occurrence of a given substring in a line of text taken as input.
+*/
 
 import java.util.*;
 class Count{

@@ -1,4 +1,7 @@
 // Sagnik Chattopadhyaya --- 16500117034
+/*
+Write a program to reverse a string taken as input.
+*/
 
 
 import java.util.*;
