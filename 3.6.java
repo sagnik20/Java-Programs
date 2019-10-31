@@ -1,10 +1,8 @@
+//java program that reads line of integer seperated by commas and displays each integer and find the sum of the integer
 // Sagnik Chattopadhyaya --- 16500117034
-/*
-Write a Java program that reads a line of integers separated by commas and 
-then displays each integer and find the sum of the integers (without using String Tokenizer)
-*/
 
-import java.util.*;
+
+import java.util.Scanner;
 class SumOfIntegers
 {
 	public static void main(String sagnik[]){

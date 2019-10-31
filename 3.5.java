@@ -1,8 +1,4 @@
 // Sagnik Chattopadhyaya --- 16500117034
-/*
-Write a program to display abbreviation of the name taken as input. 
-[e.g. R.N. Tagore will be displayed for Rabindra Nath Tagore]
-*/
 
 import java.util.Scanner;
 class Abbreviation

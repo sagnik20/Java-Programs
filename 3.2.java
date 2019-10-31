@@ -1,7 +1,5 @@
  // Sagnik Chattopadhyaya --- 16500117034
-/*
-Write a program to sort a list of names taken as input.
-*/
+
 
 import java.util.*;
 class SortName{

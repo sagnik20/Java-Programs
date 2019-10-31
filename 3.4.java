@@ -1,7 +1,5 @@
 // Sagnik Chattopadhyaya --- 16500117034
-/*
-Write a program to replace every occurrence of a given substring in a line of text with another substring taken as input.
-*/
+
 
 import java.util.*;
 class StrReplace{
